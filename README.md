@@ -18,7 +18,7 @@
 
 **Prepared by:** Zachary Crumley
 
-*This project used only synthetic corporate data and an intentionally vulnerable lab system.*
+*This project used only synthetic corporate data and an intentionally vulnerable system.*
 
 ## Executive Summary
 
