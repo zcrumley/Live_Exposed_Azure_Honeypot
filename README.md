@@ -2,9 +2,8 @@
 
 ## How Fast Can An Exposed System Be Compromised?
 
-### Detection, Compromise Analysis, and Recovery
-
-### A message no one wants to see: ![Report evidence](assets/RansomeNote2.png)
+### A message no one wants to see:
+![Report evidence](assets/RansomNote2.png)
 
 ---
 
