@@ -1,6 +1,6 @@
-# CYBER RANGE CAPSTONE
+# Live-Exposed Azure Honeypot
 
-## Live-Exposed Azure Honeypot
+## How Fast Can An Exposed System Be Compromised?
 
 ### Detection, Compromise Analysis, and Recovery
 
