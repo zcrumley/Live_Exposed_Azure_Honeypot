@@ -4,6 +4,8 @@
 
 ### Detection, Compromise Analysis, and Recovery
 
+### A message no one wants to see: ![Report evidence](assets/RansomeNote2.png)
+
 ---
 
 **PORTFOLIO PROJECT REPORT**
