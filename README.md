@@ -299,26 +299,5 @@ The most important result was the speed and automation of internet-facing attack
 
 This lab provided an end-to-end view of how a weak internet-facing asset is discovered, authenticated to, and abused. The MySQL evidence captured a complete progression from credential probing to privileged access, data discovery/collection, destructive database operations, ransom-note creation, anti-recovery/log tampering attempts, and shutdown. The Windows evidence showed successful remote authentication but did not support a claim of host malware or persistence. The exercise reinforced the practical value of hardening, centralized logging, pre-positioned detections, evidence preservation, and recovery from known-good backups.
 
-### Evidence Files
-
-- AdvancedHuntingResults-SQL Server.csv
-
-- AdvancedHuntingResults-Filter Query.csv
-
-- AdvancedHuntingResults-VM Login.csv
-
-- AdvancedHuntingResults-VM DeviceProcessEvents.csv
-
-- AdvancedHuntingResults-VM DeviceFileEvents.csv
-
-- AdvancedHuntingResults-VM DeviceRegistryEvents.csv
-
-- MDE_Investigation_Package_Pre.zip
-
-- MDE_Investigation_Package_Post.zip
-
-- Copy of Cyber Defense Final — Advanced Honey Pot w_Live Breach.docx
-
-- Report Draft- Final.docx
 
 *Portfolio note: All business records were synthetic, and the system was intentionally exposed for a controlled cybersecurity lab. Public IP addresses are retained only as technical indicators associated with this lab window.*
